@@ -14,9 +14,9 @@ Each folder contains:
 
 A non-exhaustive list of events where these talks were presented:
 
-- **https** – JugSummerCamp – 2023
-- **https** – Tourraine Tech – 2024  
-- **passkeys** – JugSummerCamp – 2025
+- **[https, comment ça marche ?](https://www.youtube.com/watch?v=GVsnQnXxV4s)** – JugSummerCamp – 2021
+- **[https, comment ça marche ?](https://www.youtube.com/watch?app=desktop&v=mG6eENKXLxA)** – Tourraine Tech – 2022  
+- **Un mot de passe ? Non merci, j’ai une passkey.** – JugSummerCamp – 2025
 
 👉 This list will be updated as I add more talks.
 
